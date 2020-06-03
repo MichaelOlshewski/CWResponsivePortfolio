@@ -6,7 +6,7 @@ The purpose of this homework assignment was to get a better understanding and gr
 ### __Link To Live Website__
 https://michaelolshewski.github.io/CWResponsivePortfolio/
 
-### __Image of 'index.html'
+### __Image of 'index.html'__
 ![index.html](/Assets/Images/website.png)
 
 - [ ] I still need to add images and projects to the site, that will come at a later date.

@@ -184,6 +184,10 @@ body {
     .btn:hover {
         background-color: color(red-focus);
     }
+    .projImage {
+        width: 95%;
+        margin-bottom: 5px;
+    }
     @include desktop {
         .desktop-logo {
             display: inline-block;

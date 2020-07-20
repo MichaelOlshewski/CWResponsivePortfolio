@@ -156,6 +156,11 @@ body .btn:hover {
   background-color: #dd382e;
 }
 
+body .projImage {
+  width: 95%;
+  margin-bottom: 5px;
+}
+
 @media (min-width: 661px) {
   body .desktop-logo {
     display: inline-block;

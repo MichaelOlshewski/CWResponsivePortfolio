@@ -7,4 +7,4 @@ This is our online portfolio of projects and exemplary homework assignments that
 https://michaelolshewski.github.io/CWResponsivePortfolio
 
 ### __Image of 'index.html'__
-![index.html](Assets/images/indexImage.png)
+![index.html](assets/images/indexImage.png)
